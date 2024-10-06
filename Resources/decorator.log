@@ -1,0 +1,9 @@
+2023-12-02 12:45:19,850 - root - INFO - This is the start of my func
+2023-12-02 12:45:19,853 - root - INFO - This is the end of my func
+2023-12-02 12:45:19,854 - root - INFO - log_inner took 0.007997751235961914 seconds to execute
+2023-12-02 12:46:59,807 - root - INFO - This is the start of my func
+2023-12-02 12:46:59,807 - root - INFO - This is the end of print_list 
+2023-12-02 12:46:59,808 - root - INFO - log_inner took 0.0020036697387695312 seconds to execute
+2023-12-02 12:48:03,848 - root - INFO - This is the start of print_list
+2023-12-02 12:48:03,850 - root - INFO - This is the end of print_list 
+2023-12-02 12:48:03,850 - root - INFO - log_inner took 0.001997709274291992 seconds to execute
