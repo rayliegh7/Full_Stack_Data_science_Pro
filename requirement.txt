@@ -3,4 +3,6 @@ matplotlib
 plotly
 seaborn
 pandas
-scikit
+scikit-learn
+openpyxl
+ lxml
